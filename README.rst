@@ -1,7 +1,7 @@
 jQuery CheckboxTree
 ===================
 
-A jQuery plugin which displays a tree of items. The items have checkboxes and
+A jQuery plugin that displays a tree of items. The items have checkboxes and
 some complex logic how the selections are handled.
 
 TODO
